@@ -1,0 +1,4 @@
+TokenGabrielTG = "5155807305:AAEH2w7HPwZ_vi3YzoL-N2XvTzQR4nqLZYk"
+DefaultGenChanceTG = 15
+
+TokenGabrielVK = "69de1971703c139f3677711bc7d5b7b519a6ee5a216602db1e7fab3a5e40e918a11886a66a7a737e4285d"
